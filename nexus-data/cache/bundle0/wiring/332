@@ -11,7 +11,7 @@ osgi.ee; (&(osgi.ee=JavaSE)(version=1.8))
 osgi.wiring.package; (&(osgi.wiring.package=com.fasterxml.jackson.databind.jsontype)(version>=2.15.0))
 153; version=2.15.3
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.storage)(version>=3.65.0))
-260; version=3.65.0
+258; version=3.65.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.security)(version>=3.65.0))
 260; version=3.65.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.proxy)(version>=3.65.0))
@@ -115,7 +115,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.common.log)(versi
 osgi.wiring.package; (&(osgi.wiring.package=com.fasterxml.jackson.core.type)(version>=2.15.0))
 124; version=2.15.3
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.search)(version>=3.65.0))
-258; version=3.65.0
+260; version=3.65.0
 osgi.wiring.package; (&(osgi.wiring.package=com.google.common.io)(version>=32.1.0))
 13; version=32.1.1
 osgi.wiring.package; (&(osgi.wiring.package=javax.ws.rs.core)(version>=2.0.0))
